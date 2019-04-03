@@ -1,0 +1,5 @@
+default['deployment_control_cookbook']['server_1'] = 'first_server_name'
+default['deployment_control_cookbook']['server_2'] = 'second_server_name'
+default['deployment_control_cookbook']['service_name'] = 'tomcat7'
+default['deployment_control_cookbook']['from_mail'] = 'suvadipmandal@gmail.com'
+default['deployment_control_cookbook']['to_mail'] = 'suvadipmandal@gmail.com'
